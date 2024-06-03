@@ -1,2 +1,1 @@
-# personal-projects
-Isaac's Personal Projects
+# Isaac's Personal Projects
