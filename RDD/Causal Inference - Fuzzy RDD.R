@@ -1,7 +1,7 @@
 ####################################
 # Author: Isaac Shon
 # Last Edited: 6/21/2024
-# Reproduction of (2018)
+# Reproduction of Pons & Tricaud (2018)
 ####################################
 
 # Install packages
